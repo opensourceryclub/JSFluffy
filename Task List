@@ -1,0 +1,13 @@
+1. Either integrate JSFuck translator from online or simply translate the JSFuck
+    during execution, allowing JSFuck attacks from inputted JS code. The github
+    repository I found seems to have a Whatever-The-Fuck License, so there.
+
+2. Determine language (I vote Cython, but we'll go with whatever ideas come up).
+
+3. Create Skeleton (Work underway)
+
+4. Fully implement Skeleton
+
+5. Implement GUI
+
+6. Potentially make into executable (hence wanting to use Cython)
